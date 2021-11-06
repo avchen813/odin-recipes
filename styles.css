@@ -1,0 +1,25 @@
+.recipe-body {
+    margin: auto 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(230,230,180);
+    width: 800px;
+}
+
+.intro {
+    text-align: center;
+}
+
+.food-pic {
+    width: 600px;
+    height: auto;
+    
+}
+
+ol, ul {
+    line-height: 1.5;
+}
+
+img {
+    position: relative;
+    left: 100px;
+}
